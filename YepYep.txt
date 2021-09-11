@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You have been banned")
+game.Players.LocalPlayer:Kick("Kaiden is a gay hole")
